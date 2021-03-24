@@ -1,0 +1,13 @@
+R:\Tugas Sekolah\Sems 6\pbkk\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+R:\Tugas Sekolah\Sems 6\pbkk\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+R:\Tugas Sekolah\Sems 6\pbkk\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+R:\Tugas Sekolah\Sems 6\pbkk\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+R:\Tugas Sekolah\Sems 6\pbkk\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+R:\Tugas Sekolah\Sems 6\pbkk\HelloWorld\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+R:\Tugas Sekolah\Sems 6\pbkk\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+R:\Tugas Sekolah\Sems 6\pbkk\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+R:\Tugas Sekolah\Sems 6\pbkk\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+R:\Tugas Sekolah\Sems 6\pbkk\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+R:\Tugas Sekolah\Sems 6\pbkk\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+R:\Tugas Sekolah\Sems 6\pbkk\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+R:\Tugas Sekolah\Sems 6\pbkk\HelloWorld\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
